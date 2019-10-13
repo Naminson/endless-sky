@@ -1832,7 +1832,6 @@ phrase "generic human package offer"
 	word
 		`A local`
 		`A man`
-		`A resident of <source>`
 		`A stranger`
 		`A woman`
 	word
