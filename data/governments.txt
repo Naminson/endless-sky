@@ -274,6 +274,7 @@ government "Parrot"
 	swizzle 2
 	"player reputation" 1
 	"bribe" 0
+	"fine" 0
 
 government "Pirate"
 	swizzle 6
